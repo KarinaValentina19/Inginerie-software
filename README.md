@@ -1,2 +1,2 @@
 # Inginerie-software
-Laboratoare
+Exerciții laborator IS sem2.
